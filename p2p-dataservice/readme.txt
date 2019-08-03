@@ -1,0 +1,4 @@
+p2p-dataservice:
+是dubbo中的服务提供者
+负责实现业务接口和连接数据库（业务接口的实现类）
+该工程使用了spring和mybatis框架

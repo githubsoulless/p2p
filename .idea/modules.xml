@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HttpClient/HttpClient.iml" filepath="$PROJECT_DIR$/HttpClient/HttpClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QRCode/QRCode.iml" filepath="$PROJECT_DIR$/QRCode/QRCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/alpay-demo/alpay-demo.iml" filepath="$PROJECT_DIR$/alpay-demo/alpay-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dom4j-xpath/dom4j-xpath.iml" filepath="$PROJECT_DIR$/dom4j-xpath/dom4j-xpath.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatisGenerator/mybatisGenerator.iml" filepath="$PROJECT_DIR$/mybatisGenerator/mybatisGenerator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p2p-common/p2p-common.iml" filepath="$PROJECT_DIR$/p2p-common/p2p-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p2p-dataservice/p2p-dataservice.iml" filepath="$PROJECT_DIR$/p2p-dataservice/p2p-dataservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p2p-exterface/p2p-exterface.iml" filepath="$PROJECT_DIR$/p2p-exterface/p2p-exterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p2p-httpClient/p2p-httpClient.iml" filepath="$PROJECT_DIR$/p2p-httpClient/p2p-httpClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p2p-parent/p2p-parent.iml" filepath="$PROJECT_DIR$/p2p-parent/p2p-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p2p-pay/p2p-pay.iml" filepath="$PROJECT_DIR$/p2p-pay/p2p-pay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p2p-timer/p2p-timer.iml" filepath="$PROJECT_DIR$/p2p-timer/p2p-timer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p2p-web/p2p-web.iml" filepath="$PROJECT_DIR$/p2p-web/p2p-web.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="alpay-demo:war">
+    <output-path>$PROJECT_DIR$/alpay-demo/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>alpay-demo</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="alpay-demo-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="alpay-demo:war exploded" />
+    </root>
+  </artifact>
+</component>

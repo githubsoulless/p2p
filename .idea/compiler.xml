@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="alpay-demo" />
+        <module name="dom4j-xpath" />
+        <module name="HttpClient" />
+        <module name="mybatisGenerator" />
+        <module name="p2p-common" />
+        <module name="p2p-dataservice" />
+        <module name="p2p-exterface" />
+        <module name="p2p-httpClient" />
+        <module name="p2p-pay" />
+        <module name="p2p-timer" />
+        <module name="p2p-web" />
+        <module name="QRCode" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="alpay-demo" target="1.8" />
+      <module name="dom4j-xpath" target="1.8" />
+      <module name="HttpClient" target="1.8" />
+      <module name="mybatisGenerator" target="1.8" />
+      <module name="p2p-common" target="1.8" />
+      <module name="p2p-dataservice" target="1.8" />
+      <module name="p2p-exterface" target="1.8" />
+      <module name="p2p-httpClient" target="1.8" />
+      <module name="p2p-parent" target="1.8" />
+      <module name="p2p-pay" target="1.8" />
+      <module name="p2p-timer" target="1.8" />
+      <module name="p2p-web" target="1.8" />
+      <module name="QRCode" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

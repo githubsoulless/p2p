@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/alpay-demo" />
+    <file type="web" url="file://$PROJECT_DIR$/p2p-dataservice" />
+    <file type="web" url="file://$PROJECT_DIR$/p2p-pay" />
+    <file type="web" url="file://$PROJECT_DIR$/p2p-timer" />
+    <file type="web" url="file://$PROJECT_DIR$/p2p-web" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/p2p-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/p2p-common/pom.xml" />
+        <option value="$PROJECT_DIR$/p2p-exterface/pom.xml" />
+        <option value="$PROJECT_DIR$/p2p-dataservice/pom.xml" />
+        <option value="$PROJECT_DIR$/p2p-web/pom.xml" />
+        <option value="$PROJECT_DIR$/p2p-timer/pom.xml" />
+        <option value="$PROJECT_DIR$/p2p-pay/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatisGenerator/pom.xml" />
+        <option value="$PROJECT_DIR$/p2p-httpClient/pom.xml" />
+        <option value="$PROJECT_DIR$/HttpClient/pom.xml" />
+        <option value="$PROJECT_DIR$/dom4j-xpath/pom.xml" />
+        <option value="$PROJECT_DIR$/alpay-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/QRCode/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
