@@ -58,7 +58,7 @@ public class QRCodeTest {
 
         System.out.println("生成图片");
 
-
+        System.out.println("aaa");
 
     }
 }
